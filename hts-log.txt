@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Jan 2022 15:47:04 at http://preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/31405042?_ga=2.217605150.908258458.1642068932-196916769.1642068932 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/31405042?_ga=2.217605150.908258458.1642068932-196916769.1642068932 -O1 "C:\My Web Sites\TEST Project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:47:07	Warning: 	Link preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/31405042?_ga=2.217605150.908258458.1642068932-196916769.1642068932 not scanned (follow robots meta tag)
+15:47:07	Error: 	"Gone" (410) at link preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/&quot;http://rainbowit.net/docs/imroz/&quot; (from preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/31405042?_ga=2.217605150.908258458.1642068932-196916769.1642068932)
+15:47:07	Error: 	"Gone" (410) at link preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/&..." (from preview.themeforest.net/item/imroz-react-agency-portfolio-template/full_screen_preview/31405042?_ga=2.217605150.908258458.1642068932-196916769.1642068932)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 4 links scanned, 1 files written (33985 bytes overall) [14691 bytes received at 4897 bytes/sec], 34032 bytes transferred using HTTP compression in 2 files, ratio 33%, 2.0 requests per connection
+(2 errors, 1 warnings, 0 messages)
